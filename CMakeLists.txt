@@ -3,7 +3,7 @@ cmake_minimum_required(VERSION 4.2)
 project(caps_tip_native LANGUAGES CXX)
 
 add_executable(${PROJECT_NAME} WIN32
-    src/main.cpp
+    main.cpp
 )
 
 target_compile_features(${PROJECT_NAME} PRIVATE cxx_std_20)
