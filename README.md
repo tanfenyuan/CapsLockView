@@ -1,4 +1,4 @@
-# CapsTip Native Demo
+# CapsTip 
 
 纯 Win32 版本，不依赖 Qt 或其他第三方运行库。
 
